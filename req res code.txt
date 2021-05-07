@@ -1,0 +1,5 @@
+100 199 informational error
+200 299 successfull responses
+300 399 redirect
+400 499 client side error
+500 599 server side error
